@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and psychology
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on projects that benefit people
-- 📫 How to reach me ...
+- 📫 Reach me by emailing wl2667@nyu.edu
 
 <!---
 wenjialu/wenjialu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
